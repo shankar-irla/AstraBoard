@@ -99,6 +99,6 @@ MIT License — Feel free to fork, remix, and rise.
 
 ---
 
-> _"Built by Shankar. Empowered by Astra. Fueled by Vision."_
+> _"Created with ❤️ by [Shankar Irla](https://www.linkedin.com/in/shankar-irla). Empowered by Astra. Fueled by Vision."_
 
 
